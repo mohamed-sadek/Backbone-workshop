@@ -1,0 +1,35 @@
+{
+  "movies": [
+    {
+      "title": "Interstellar",
+      "director": "Christopher Nolan",
+      "releaseDate": "2014",
+      "poster": "http://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX214_AL_.jpg",
+      "rating" : "0"
+    },
+
+    {
+      "title": "The Hobbit: The Battle of the Five Armies",
+      "director": "Peter Jackson",
+      "releaseDate": "2014",
+      "poster": "http://ia.media-imdb.com/images/M/MV5BODAzMDgxMDc1MF5BMl5BanBnXkFtZTgwMTI0OTAzMjE@._V1_SX214_AL_.jpg",
+      "rating" : "0"
+    },
+
+    {
+      "title": "The Interview",
+      "director": "Evan Goldberg, Seth Rogen",
+      "releaseDate": "2014",
+      "poster": "http://ia.media-imdb.com/images/M/MV5BMTQzMTcwMzgyMV5BMl5BanBnXkFtZTgwMzAyMzQ2MzE@._V1_SX214_AL_.jpg",
+      "rating" : "0"
+    },
+
+    {
+      "title": "Sharknado",
+      "director": "probably no one",
+      "releaseDate": "2013",
+      "poster": "http://ia.media-imdb.com/images/M/MV5BOTE2OTk4MTQzNV5BMl5BanBnXkFtZTcwODUxOTM3OQ@@._V1_SY317_CR6,0,214,317_AL_.jpg",
+      "rating" : "0"
+    }
+  ]
+}
